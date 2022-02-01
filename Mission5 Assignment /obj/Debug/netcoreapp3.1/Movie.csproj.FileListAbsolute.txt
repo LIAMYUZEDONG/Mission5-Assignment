@@ -1,0 +1,196 @@
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/bin/Debug/netcoreapp3.1/Movie.deps.json
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/bin/Debug/netcoreapp3.1/Movie.runtimeconfig.json
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/bin/Debug/netcoreapp3.1/Movie.runtimeconfig.dev.json
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/bin/Debug/netcoreapp3.1/Movie.dll
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/bin/Debug/netcoreapp3.1/Movie.pdb
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/bin/Debug/netcoreapp3.1/Movie.Views.dll
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/bin/Debug/netcoreapp3.1/Movie.Views.pdb
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/obj/Debug/netcoreapp3.1/Movie.csproj.AssemblyReference.cache
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/obj/Debug/netcoreapp3.1/Movie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/obj/Debug/netcoreapp3.1/Movie.AssemblyInfoInputs.cache
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/obj/Debug/netcoreapp3.1/Movie.AssemblyInfo.cs
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/obj/Debug/netcoreapp3.1/Movie.csproj.CoreCompileInputs.cache
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/obj/Debug/netcoreapp3.1/Movie.MvcApplicationPartsAssemblyInfo.cache
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/obj/Debug/netcoreapp3.1/Movie.RazorAssemblyInfo.cache
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/obj/Debug/netcoreapp3.1/Movie.RazorAssemblyInfo.cs
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/obj/Debug/netcoreapp3.1/staticwebassets/Movie.StaticWebAssets.Manifest.cache
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/obj/Debug/netcoreapp3.1/Movie.TagHelpers.input.cache
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/obj/Debug/netcoreapp3.1/Movie.TagHelpers.output.cache
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/obj/Debug/netcoreapp3.1/Movie.RazorCoreGenerate.cache
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/obj/Debug/netcoreapp3.1/Razor/Views/Home/Confirmation.cshtml.g.cs
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/obj/Debug/netcoreapp3.1/Movie.RazorTargetAssemblyInfo.cache
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/obj/Debug/netcoreapp3.1/Movie.RazorTargetAssemblyInfo.cs
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/obj/Debug/netcoreapp3.1/Movie.Views.pdb
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/obj/Debug/netcoreapp3.1/Movie.dll
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/obj/Debug/netcoreapp3.1/Movie.pdb
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/obj/Debug/netcoreapp3.1/Movie.genruntimeconfig.cache
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/obj/Debug/netcoreapp3.1/Movie.csproj.CopyComplete
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/obj/Debug/netcoreapp3.1/Razor/Views/Home/MovieApplication.cshtml.g.cs
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/bin/Debug/netcoreapp3.1/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/Users/liamdong/Desktop/IS 413/Mission4 Assignment /Movie/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/Users/yuze/Desktop/Movie/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/yuze/Desktop/Movie/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/yuze/Desktop/Movie/bin/Debug/netcoreapp3.1/Movie.deps.json
+/Users/yuze/Desktop/Movie/bin/Debug/netcoreapp3.1/Movie.runtimeconfig.json
+/Users/yuze/Desktop/Movie/bin/Debug/netcoreapp3.1/Movie.runtimeconfig.dev.json
+/Users/yuze/Desktop/Movie/bin/Debug/netcoreapp3.1/Movie.dll
+/Users/yuze/Desktop/Movie/bin/Debug/netcoreapp3.1/Movie.pdb
+/Users/yuze/Desktop/Movie/bin/Debug/netcoreapp3.1/Movie.Views.dll
+/Users/yuze/Desktop/Movie/bin/Debug/netcoreapp3.1/Movie.Views.pdb
+/Users/yuze/Desktop/Movie/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/yuze/Desktop/Movie/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/yuze/Desktop/Movie/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/Users/yuze/Desktop/Movie/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/yuze/Desktop/Movie/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/yuze/Desktop/Movie/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/yuze/Desktop/Movie/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/yuze/Desktop/Movie/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/yuze/Desktop/Movie/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/yuze/Desktop/Movie/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/yuze/Desktop/Movie/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/yuze/Desktop/Movie/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/yuze/Desktop/Movie/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/yuze/Desktop/Movie/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/yuze/Desktop/Movie/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/yuze/Desktop/Movie/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/yuze/Desktop/Movie/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/yuze/Desktop/Movie/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/yuze/Desktop/Movie/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/yuze/Desktop/Movie/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/yuze/Desktop/Movie/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/yuze/Desktop/Movie/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/Users/yuze/Desktop/Movie/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/Users/yuze/Desktop/Movie/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/Users/yuze/Desktop/Movie/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/yuze/Desktop/Movie/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/yuze/Desktop/Movie/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/yuze/Desktop/Movie/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/yuze/Desktop/Movie/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/yuze/Desktop/Movie/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/yuze/Desktop/Movie/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/yuze/Desktop/Movie/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/yuze/Desktop/Movie/bin/Debug/netcoreapp3.1/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/yuze/Desktop/Movie/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/yuze/Desktop/Movie/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/yuze/Desktop/Movie/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/yuze/Desktop/Movie/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/yuze/Desktop/Movie/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/Users/yuze/Desktop/Movie/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/yuze/Desktop/Movie/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/Users/yuze/Desktop/Movie/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/Users/yuze/Desktop/Movie/obj/Debug/netcoreapp3.1/Movie.csproj.AssemblyReference.cache
+/Users/yuze/Desktop/Movie/obj/Debug/netcoreapp3.1/Movie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuze/Desktop/Movie/obj/Debug/netcoreapp3.1/Movie.AssemblyInfoInputs.cache
+/Users/yuze/Desktop/Movie/obj/Debug/netcoreapp3.1/Movie.AssemblyInfo.cs
+/Users/yuze/Desktop/Movie/obj/Debug/netcoreapp3.1/Movie.csproj.CoreCompileInputs.cache
+/Users/yuze/Desktop/Movie/obj/Debug/netcoreapp3.1/Movie.MvcApplicationPartsAssemblyInfo.cache
+/Users/yuze/Desktop/Movie/obj/Debug/netcoreapp3.1/Movie.RazorAssemblyInfo.cache
+/Users/yuze/Desktop/Movie/obj/Debug/netcoreapp3.1/Movie.RazorAssemblyInfo.cs
+/Users/yuze/Desktop/Movie/obj/Debug/netcoreapp3.1/staticwebassets/Movie.StaticWebAssets.Manifest.cache
+/Users/yuze/Desktop/Movie/obj/Debug/netcoreapp3.1/staticwebassets/Movie.StaticWebAssets.xml
+/Users/yuze/Desktop/Movie/obj/Debug/netcoreapp3.1/scopedcss/bundle/Movie.styles.css
+/Users/yuze/Desktop/Movie/obj/Debug/netcoreapp3.1/Movie.TagHelpers.input.cache
+/Users/yuze/Desktop/Movie/obj/Debug/netcoreapp3.1/Movie.TagHelpers.output.cache
+/Users/yuze/Desktop/Movie/obj/Debug/netcoreapp3.1/Movie.RazorCoreGenerate.cache
+/Users/yuze/Desktop/Movie/obj/Debug/netcoreapp3.1/Razor/Views/Home/Confirmation.cshtml.g.cs
+/Users/yuze/Desktop/Movie/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/yuze/Desktop/Movie/obj/Debug/netcoreapp3.1/Razor/Views/Home/MovieApplication.cshtml.g.cs
+/Users/yuze/Desktop/Movie/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/yuze/Desktop/Movie/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/yuze/Desktop/Movie/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/yuze/Desktop/Movie/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/yuze/Desktop/Movie/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/yuze/Desktop/Movie/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/yuze/Desktop/Movie/obj/Debug/netcoreapp3.1/Movie.RazorTargetAssemblyInfo.cache
+/Users/yuze/Desktop/Movie/obj/Debug/netcoreapp3.1/Movie.RazorTargetAssemblyInfo.cs
+/Users/yuze/Desktop/Movie/obj/Debug/netcoreapp3.1/Movie.Views.pdb
+/Users/yuze/Desktop/Movie/obj/Debug/netcoreapp3.1/Movie.csproj.CopyComplete
+/Users/yuze/Desktop/Movie/obj/Debug/netcoreapp3.1/Movie.dll
+/Users/yuze/Desktop/Movie/obj/Debug/netcoreapp3.1/Movie.pdb
+/Users/yuze/Desktop/Movie/obj/Debug/netcoreapp3.1/Movie.genruntimeconfig.cache
+/Users/yuze/Desktop/Mission5 Assignment /bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/yuze/Desktop/Mission5 Assignment /bin/Debug/netcoreapp3.1/appsettings.json
+/Users/yuze/Desktop/Mission5 Assignment /bin/Debug/netcoreapp3.1/Movie.deps.json
+/Users/yuze/Desktop/Mission5 Assignment /bin/Debug/netcoreapp3.1/Movie.runtimeconfig.json
+/Users/yuze/Desktop/Mission5 Assignment /bin/Debug/netcoreapp3.1/Movie.runtimeconfig.dev.json
+/Users/yuze/Desktop/Mission5 Assignment /bin/Debug/netcoreapp3.1/Movie.dll
+/Users/yuze/Desktop/Mission5 Assignment /bin/Debug/netcoreapp3.1/Movie.pdb
+/Users/yuze/Desktop/Mission5 Assignment /bin/Debug/netcoreapp3.1/Movie.Views.dll
+/Users/yuze/Desktop/Mission5 Assignment /bin/Debug/netcoreapp3.1/Movie.Views.pdb
+/Users/yuze/Desktop/Mission5 Assignment /obj/Debug/netcoreapp3.1/Movie.csproj.AssemblyReference.cache
+/Users/yuze/Desktop/Mission5 Assignment /obj/Debug/netcoreapp3.1/Movie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuze/Desktop/Mission5 Assignment /obj/Debug/netcoreapp3.1/Movie.AssemblyInfoInputs.cache
+/Users/yuze/Desktop/Mission5 Assignment /obj/Debug/netcoreapp3.1/Movie.AssemblyInfo.cs
+/Users/yuze/Desktop/Mission5 Assignment /obj/Debug/netcoreapp3.1/Movie.csproj.CoreCompileInputs.cache
+/Users/yuze/Desktop/Mission5 Assignment /obj/Debug/netcoreapp3.1/Movie.MvcApplicationPartsAssemblyInfo.cache
+/Users/yuze/Desktop/Mission5 Assignment /obj/Debug/netcoreapp3.1/Movie.RazorAssemblyInfo.cache
+/Users/yuze/Desktop/Mission5 Assignment /obj/Debug/netcoreapp3.1/Movie.RazorAssemblyInfo.cs
+/Users/yuze/Desktop/Mission5 Assignment /obj/Debug/netcoreapp3.1/staticwebassets/Movie.StaticWebAssets.Manifest.cache
+/Users/yuze/Desktop/Mission5 Assignment /obj/Debug/netcoreapp3.1/staticwebassets/Movie.StaticWebAssets.xml
+/Users/yuze/Desktop/Mission5 Assignment /obj/Debug/netcoreapp3.1/scopedcss/bundle/Movie.styles.css
+/Users/yuze/Desktop/Mission5 Assignment /obj/Debug/netcoreapp3.1/Movie.TagHelpers.input.cache
+/Users/yuze/Desktop/Mission5 Assignment /obj/Debug/netcoreapp3.1/Movie.TagHelpers.output.cache
+/Users/yuze/Desktop/Mission5 Assignment /obj/Debug/netcoreapp3.1/Movie.RazorCoreGenerate.cache
+/Users/yuze/Desktop/Mission5 Assignment /obj/Debug/netcoreapp3.1/Razor/Views/Home/Confirmation.cshtml.g.cs
+/Users/yuze/Desktop/Mission5 Assignment /obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/yuze/Desktop/Mission5 Assignment /obj/Debug/netcoreapp3.1/Razor/Views/Home/List.cshtml.g.cs
+/Users/yuze/Desktop/Mission5 Assignment /obj/Debug/netcoreapp3.1/Razor/Views/Home/MovieApplication.cshtml.g.cs
+/Users/yuze/Desktop/Mission5 Assignment /obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/yuze/Desktop/Mission5 Assignment /obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/yuze/Desktop/Mission5 Assignment /obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/yuze/Desktop/Mission5 Assignment /obj/Debug/netcoreapp3.1/Movie.RazorTargetAssemblyInfo.cache
+/Users/yuze/Desktop/Mission5 Assignment /obj/Debug/netcoreapp3.1/Movie.RazorTargetAssemblyInfo.cs
+/Users/yuze/Desktop/Mission5 Assignment /obj/Debug/netcoreapp3.1/Movie.Views.pdb
+/Users/yuze/Desktop/Mission5 Assignment /obj/Debug/netcoreapp3.1/Movie.csproj.CopyComplete
+/Users/yuze/Desktop/Mission5 Assignment /obj/Debug/netcoreapp3.1/Movie.dll
+/Users/yuze/Desktop/Mission5 Assignment /obj/Debug/netcoreapp3.1/Movie.pdb
+/Users/yuze/Desktop/Mission5 Assignment /obj/Debug/netcoreapp3.1/Movie.genruntimeconfig.cache
+/Users/yuze/Desktop/Mission5 Assignment /obj/Debug/netcoreapp3.1/Razor/Views/Home/Delete.cshtml.g.cs
